@@ -1,4 +1,4 @@
-pubilc class radha{  
+public class radha{  
     public static void main(String args[]){  
      System.out.println("Hello Java");
      System.out.println("Welcomme to java");
